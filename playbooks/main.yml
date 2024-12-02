@@ -5,7 +5,6 @@
   roles:
     - system_info
 
-Тестовий playbook (test.yml):
 - name: Test Connection
   hosts: all
   gather_facts: yes
